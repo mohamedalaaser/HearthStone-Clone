@@ -1,0 +1,30 @@
+1- To start the game, run the controller class in the package GUI.
+
+2- The game window will appear, click on "Start match" to start a match, or click on "Exit" if you wish to exit the game.
+
+3- After clicking "Start match" you will be asked to choose a hero for the first player. Simply click on any of the 5 heroes to select one
+   then click on the button "Select First Hero". You can also change you selection by clicking on another hero before clicking the button.
+
+3- You will then be asked to select the second hero. do the same as with the first one.
+
+4- Your selection of heroes will be shown and you can click on "PLAY". You can also click on "Back" on the top left corner to back an select
+   other heroes.
+
+5- Inside the game you can use the "Esc" button on your keyboard or click on the settings button on the top left corner to pause the game
+   at any time.
+
+6- You can end your turn by clicking on the "End turn" button.
+
+7- In your turn, you can play a minion from your hand to the field by simply clicking on it. To play a spell that requires you to specify
+   a target, first click on the card to select it then click on the target to use it. Spells that do not require you to specify a target
+   will be used right away after clicking on them. You can also use your hero power the same way.
+   After selecting a spell card or a hero power that requires you to specify a target(it will have a green background), you can unselect 
+   it by clicking on it again if you changed your mind.
+
+8- You can use the minions in your field to attack the opponent's hero or other minions aslo by clicking on a minion to select it
+   then click on your target.
+
+9- Minions that are taunt will have a red border around them on the field, they will have a yellow shield over them if divine,
+   they will be greyed out if they attacked this turn and they will have zZZ if they are sleeping
+
+
