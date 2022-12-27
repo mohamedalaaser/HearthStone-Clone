@@ -1,4 +1,3 @@
-# Card-Game
 
 This is a 2 player card game, a clone of "HearthStone", built using Java and JSwing.
 
